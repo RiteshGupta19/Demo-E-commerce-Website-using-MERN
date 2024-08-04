@@ -1,0 +1,19 @@
+.main{
+  background-color: rgb(201, 227, 250);
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 1px 1px 20px;
+}
+.main a{
+  padding: 10px;
+}
+.main div{
+  display: flex;
+  margin-top: 10px;
+  font-size: 20px;
+  margin-right: 20px;
+}
+li{
+  list-style: none;;
+}
